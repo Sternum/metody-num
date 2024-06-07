@@ -1,0 +1,15 @@
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\bin\Debug\net6.0\ZeroPoints.exe
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\bin\Debug\net6.0\ZeroPoints.deps.json
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\bin\Debug\net6.0\ZeroPoints.runtimeconfig.json
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\bin\Debug\net6.0\ZeroPoints.dll
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\bin\Debug\net6.0\ZeroPoints.pdb
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ZeroPoints.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ZeroPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ZeroPoints.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ZeroPoints.AssemblyInfo.cs
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ZeroPoints.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ZeroPoints.dll
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\refint\ZeroPoints.dll
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ZeroPoints.pdb
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ZeroPoints.genruntimeconfig.cache
+C:\Users\kamil\source\repos\ZeroPoints\ZeroPoints\obj\Debug\net6.0\ref\ZeroPoints.dll

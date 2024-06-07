@@ -1,0 +1,15 @@
+C:\Users\kamil\source\repos\Metody\Metody\bin\Debug\net6.0\Metody.exe
+C:\Users\kamil\source\repos\Metody\Metody\bin\Debug\net6.0\Metody.deps.json
+C:\Users\kamil\source\repos\Metody\Metody\bin\Debug\net6.0\Metody.runtimeconfig.json
+C:\Users\kamil\source\repos\Metody\Metody\bin\Debug\net6.0\Metody.dll
+C:\Users\kamil\source\repos\Metody\Metody\bin\Debug\net6.0\Metody.pdb
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\Metody.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\Metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\Metody.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\Metody.AssemblyInfo.cs
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\Metody.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\Metody.dll
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\refint\Metody.dll
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\Metody.pdb
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\Metody.genruntimeconfig.cache
+C:\Users\kamil\source\repos\Metody\Metody\obj\Debug\net6.0\ref\Metody.dll

@@ -1,0 +1,15 @@
+C:\Users\kamil\source\repos\Lagrange\Lagrange\bin\Debug\net6.0\Lagrange.exe
+C:\Users\kamil\source\repos\Lagrange\Lagrange\bin\Debug\net6.0\Lagrange.deps.json
+C:\Users\kamil\source\repos\Lagrange\Lagrange\bin\Debug\net6.0\Lagrange.runtimeconfig.json
+C:\Users\kamil\source\repos\Lagrange\Lagrange\bin\Debug\net6.0\Lagrange.dll
+C:\Users\kamil\source\repos\Lagrange\Lagrange\bin\Debug\net6.0\Lagrange.pdb
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\Lagrange.csproj.AssemblyReference.cache
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\Lagrange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\Lagrange.AssemblyInfoInputs.cache
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\Lagrange.AssemblyInfo.cs
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\Lagrange.csproj.CoreCompileInputs.cache
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\Lagrange.dll
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\refint\Lagrange.dll
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\Lagrange.pdb
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\Lagrange.genruntimeconfig.cache
+C:\Users\kamil\source\repos\Lagrange\Lagrange\obj\Debug\net6.0\ref\Lagrange.dll
